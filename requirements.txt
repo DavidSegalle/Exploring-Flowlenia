@@ -1,0 +1,16 @@
+jax==0.4.26
+matplotlib==3.8.4
+numpy==1.26.4
+moviepy==1.0.3
+tqdm==4.66.2
+pandas==2.2.2
+seaborn==0.13.2
+jaxtyping==0.2.28
+PySide2==5.15.2.1
+chex==0.1.86
+scikit-learn==1.4.2
+flax==0.8.2
+evosax==0.1.6
+joblib==1.4.0
+optax==0.2.2
+equinox==0.11.4  ## Only for flowlenia vanilla, to be removed in the future
